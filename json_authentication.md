@@ -20,4 +20,4 @@ This can be, in certain cases, a stateless authorization mechanism. The server's
 
 3. If the token is sent in the Authorization header, **Cross-Origin Resource Sharing (CORS)** won't be an issue as it doesn't use cookies.
 
-https://cdn2.auth0.com/docs/media/articles/api-auth/client-credentials-grant.png
+[https://cdn2.auth0.com/docs/media/articles/api-auth/client-credentials-grant.png]
